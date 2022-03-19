@@ -1,2 +1,4 @@
 # wirehead_demo
-In-browser demo of wireheading using Vincent Bazia's Neuroevolution.js
+Aspiring In-browser demo of wireheading using Vincent Bazia's Neuroevolution.js
+
+Nothing works as of now. 
